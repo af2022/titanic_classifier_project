@@ -8,28 +8,28 @@ Feel free to view the Jupyter notebook which contains detailed information going
 
 **Jupyter Notebook Breakdown**
 
-Project Breakdown
-Data Cleaning
-Explortatory Data Analysis
-Modelling
-Experimentation (Hyperparameter Tuning and best model selection)
-Data can be found within the repo and was made publicly available by Kaggle found here: [https://www.kaggle.com/c/titanic].
+* Project Breakdown
+* Data Cleaning
+* Explortatory Data Analysis
+* Modelling
+* Experimentation (Hyperparameter Tuning and best model selection)
+* Data can be found within the repo and was made publicly available by Kaggle found here: [https://www.kaggle.com/c/titanic].
 
 **Python Packages**
 
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Sci-Kit Learn
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Sci-Kit Learn
 
 **Machine Learning Techniques**
 
-Logistic Regression (Base Classifier)
-KNN
-RandomForest (Binary Trees)
-Randomized and GridSearch Cross Validation
-Precision/Recall, F1 Score and ROC/AUC
+* Logistic Regression (Base Classifier)
+* KNN
+* RandomForest (Binary Trees)
+* Randomized and GridSearch Cross Validation
+* Precision/Recall, F1 Score and ROC/AUC
 
 
 *Getting Started*
