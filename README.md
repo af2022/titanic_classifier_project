@@ -15,6 +15,8 @@ Feel free to view the Jupyter notebook which contains detailed information going
 * Experimentation (Hyperparameter Tuning and best model selection)
 * Data can be found within the repo and was made publicly available by Kaggle found here: [https://www.kaggle.com/c/titanic].
 
+Please launch the Jupyter notebook to view the project.
+
 **Python Packages**
 
 * Numpy
