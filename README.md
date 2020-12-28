@@ -9,7 +9,7 @@ Feel free to view the Jupyter notebook which contains detailed information going
 **Jupyter Notebook Breakdown**
 
 * Project Breakdown
-* Data Cleaning
+* Data Cleaning and Preparation
 * Explortatory Data Analysis
 * Modelling
 * Experimentation (Hyperparameter Tuning and best model selection)
