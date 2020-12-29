@@ -6,7 +6,7 @@ The data for this project can be found on Kaggle.com and is often cited as the l
 
 Feel free to view the Jupyter notebook which contains detailed information going from:
 
-**Jupyter Notebook Breakdown**
+## Jupyter Notebook Breakdown
 
 * Project Breakdown
 * Data Cleaning and Preparation
