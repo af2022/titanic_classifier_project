@@ -17,7 +17,7 @@ Feel free to view the Jupyter notebook which contains detailed information going
 
 Please launch the Jupyter notebook to view the project.
 
-**Python Packages**
+## Python Packages
 
 * Numpy
 * Pandas
@@ -25,7 +25,7 @@ Please launch the Jupyter notebook to view the project.
 * Seaborn
 * Sci-Kit Learn
 
-**Machine Learning Techniques**
+## Machine Learning Techniques
 
 * Logistic Regression (Base Classifier)
 * KNN
