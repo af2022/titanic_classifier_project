@@ -34,7 +34,7 @@ Please launch the Jupyter notebook to view the project.
 * Precision/Recall, F1 Score and ROC/AUC
 
 
-*Getting Started*
+#Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -51,7 +51,8 @@ Run the requirements.txt file if using pypy manager with: pip3 install -r requir
 
 Run the following in a terminal: conda env create -f heart_disease_project.yml
 
-**Future Updates**
-Potential to split project into a more Class based project with my own classes for making models
-More feature engineering and analysis
-Potential to apply Deep Learning but using only accuracy as the metric for evaluation
+# Further Information 
+
+I've annotate all the notebooks with corresponding file names for ease of access when following them through. 
+All modules and python scripts are upto date provided you have followed the installation instructions above. 
+Happy coding! 
